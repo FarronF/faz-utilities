@@ -1,0 +1,18 @@
+{
+  "name": "faz-utilities",
+  "authors": [
+    "Farron Flaherty <farron.flaherty@version1.com>",
+	"Farron Flaherty <farronflaherty@gmail.com>"
+  ],
+  "description": "Simple css files for helping with front end development",
+  "main": "faz-utilities.css",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
